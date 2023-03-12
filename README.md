@@ -1,23 +1,23 @@
-<h1>Привет, я CodeCampfire 👋</h1>
+<h1>👋Hi, I'm CodeCampfire👋</h1>
 
-<h2>Языки программирования</h2>
+<h2>🌱Programming languages🌱</h2>
 
- - C++<br>
- - Python
- - HTML
- - CSS
-<h2>Проекты</h2>
-Я работаю над несколькими проектами, включая:
+ - C++🎁<br>
+ - Python🎁<br>
+ - HTML🎁<br>
+ - CSS🎁<br>
+<h2>Projects</h2>
+👀I am working on several projects, including:👀
 
  - C&D - https://github.com/CodeCampfire/codecampfire.github.io
-<h2>Контакты</h2>
-Если вы хотите связаться со мной, используйте один из следующих способов:
+<h2>Contacts</h2>
+If you would like to contact me, use one of the following methods:
 
 
  - Discord: MDMA#9786
 
-<h2>Благодарности</h2>
-Я хочу поблагодарить следующих людей за их вклад в мои проекты:
+<h2>Acknowledgements</h2>
+I want to thank the following people for their contributions to my projects:
 
  - @monkrel
  - G1D30N#1396
