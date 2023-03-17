@@ -19,5 +19,5 @@ If you would like to contact me, use one of the following methods:
 <h2>Acknowledgements</h2>
 I want to thank the following people for their contributions to my projects:
 
- - @monkrel
+ - @monkrel - https://github.com/monkrel
  - G1D30N#1396
