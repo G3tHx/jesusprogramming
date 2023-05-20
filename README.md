@@ -11,6 +11,7 @@
 Можете связаться со мной через:
 
 - Telegram: [postig_satori](https://t.me/postig_satori)
+- Discord: MDMA#4044
 
 ## 📜 Мои проекты
 
