@@ -14,7 +14,7 @@
 Можете связаться со мной через:
 
 - Telegram: [postig_satori](https://t.me/postig_satori)
-- Email: jesusprogramming@example.com
+- Email: pelmen.trallinator@gmail.com
 
 ## 📜 Мои проекты
 
