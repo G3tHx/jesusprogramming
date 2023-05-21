@@ -15,9 +15,9 @@
 
 ## 📜 Мои проекты
 
-- **Проект1**: DDoS-tool. [Ссылка на проект](https://gitmemories.com/firstapostle/Blood)
-- **Проект2**: C&D. [Ссылка на проект](https://github.com/JesusProgramming/jesusprogramming.github.io)
-- **Проект3**: Social Media. [Ссылка на проект](https://github.com/JesusProgramming/Social-media)
+- **DDoS-tool**: Python. [Ссылка на проект](https://gitmemories.com/firstapostle/Blood)
+- **C&D**: HTML + CSS + JS. [Ссылка на проект](https://github.com/JesusProgramming/jesusprogramming.github.io)
+- **Social Media**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/Social-media)
 
 ## 🌍 Языки
 
