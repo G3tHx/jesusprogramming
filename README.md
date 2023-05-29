@@ -18,6 +18,7 @@
 - **DDoS-tool**: Python. [Ссылка на проект](https://gitmemories.com/firstapostle/Blood)
 - **C&D**: HTML + CSS + JS. [Ссылка на проект](https://github.com/JesusProgramming/jesusprogramming.github.io)
 - **Social Media**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/Social-media)
+- **RU Companies**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/ru-big-company)
 
 ## 🌍 Языки
 
