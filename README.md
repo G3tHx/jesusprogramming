@@ -19,6 +19,7 @@ You can contact with me:
 - **C&D**: HTML + CSS + JS. [Ссылка на проект](https://github.com/JesusProgramming/jesusprogramming.github.io)
 - **Social Media**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/Social-media)
 - **RU Companies**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/ru-big-company)
+- **Geometric pattern**: C++. [Ссылка на проект](https://github.com/JesusProgramming/GeomPattern)
 
 ## 🌍 Languages
 
