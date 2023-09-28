@@ -10,7 +10,7 @@
 
 You can contact with me:
 
-- Telegram: [postig_satori](https://t.me/postig_satori)
+- Telegram: [Error_0x29a](https://t.me/Error_0x29a)
 - Discord: MDMA#4044 / 404.mdma
 
 ## 📜 My projects
