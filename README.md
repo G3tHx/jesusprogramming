@@ -2,7 +2,7 @@
 # У, я, hello, мир! 👋
 ## 🚀 My skills
 
-- 🐍 Middle Python-developer
+- 🐍 Junior Python-developer
 - 📚 Junior C++
 - 💻 Middle web-developer (HTML & CSS)
 
