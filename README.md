@@ -4,7 +4,7 @@
 
 - 🐍 Junior Python-developer
 - 📚 Junior C++
-- 💻 Middle web-developer (HTML & CSS)
+- 💻 Junior web-developer (HTML & CSS)
 
 ## 👥 SocialLinks
 
