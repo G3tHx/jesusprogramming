@@ -20,6 +20,7 @@ You can contact with me:
 - **Social Media**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/Social-media)
 - **RU Companies**: HTML + CSS. [Ссылка на проект](https://github.com/JesusProgramming/ru-big-company)
 - **Geometric pattern**: C++. [Ссылка на проект](https://github.com/JesusProgramming/GeomPattern)
+- **Mir Tankov Start Battle on Key**: Python. [Ссылка на проект](https://github.com/G3tHx/MT_StartBattleOnKey)
 
 ## 🌍 Languages
 
