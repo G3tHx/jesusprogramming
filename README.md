@@ -10,7 +10,7 @@
 
 You can contact with me:
 
-- Telegram: [Error_0x29a](https://t.me/Error_0x29a)
+- Telegram: [us3rb](https://t.me/us3rb)
 - Discord: MDMA#4044 / 404.mdma
 
 ## 📜 My projects
